@@ -1,0 +1,9 @@
+program in c
+#include<stdio.j>
+#include<math.h>
+int main()
+{
+int a, b;
+printf("neter thebva;uees")\
+}
+
